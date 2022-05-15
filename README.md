@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-## WebSite : [https://bejewelled-banoffee-69a8fe.netlify.app]
+## WebSite : [https://basic-countdown-timer.netlify.app]
 
 In the project directory, you can run:
 
